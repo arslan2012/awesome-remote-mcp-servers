@@ -4586,7 +4586,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
 - [QPost](https://qpost.dev) `https://qpost.dev/mcp`
   [![QPost MCP connector](https://glama.ai/mcp/connectors/io.github.arslan2012/qpost-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arslan2012/qpost-mcp)
-  🔑 - Publish and schedule videos and images on TikTok, Instagram and YouTube, with post stats.
+  🔓 - Publish and schedule videos and images on TikTok, Instagram and YouTube, with post stats; tools need an API key.
 - [Runsheet](https://runsheet.buildifyapp.in/mcp) `https://runsheet.buildifyapp.in/api/mcp`
   [![Runsheet MCP connector](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler/badges/score.svg)](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler)
   🔐 - Read a YouTube channel's schedule and stats, schedule, publish and retitle videos, and draft copy, all on approval.
